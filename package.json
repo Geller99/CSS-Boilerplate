@@ -1,0 +1,11 @@
+{
+  "name": "ui-center",
+  "version": "1.0.0",
+  "description": "CSS Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geller Micael",
+  "license": "ISC"
+}
